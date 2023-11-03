@@ -1,3 +1,5 @@
 {
-  "dataSample": "Random data input"
+  "AppFeature": {
+    "fileSystem": true
+  }
 }

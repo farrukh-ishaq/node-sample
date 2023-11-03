@@ -1,5 +1,5 @@
 {
     "AppFeature": {
-        "fileSystem": true
+        "fileSystem": false
     }
 }
